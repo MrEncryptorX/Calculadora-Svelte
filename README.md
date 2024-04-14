@@ -17,7 +17,7 @@ This repository contains a calculator application built with Svelte, showcasing 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/MrEncryptorX/svelte-calculator.git
+git clone https://github.com/MrEncryptorX/calculadora-svelte.git
 
 2. Navigate to the project directory:
 cd svelte-calculator
@@ -59,7 +59,7 @@ Este repositório contém uma aplicação de calculadora construída com Svelte,
 Para executar este projeto localmente, siga estes passos:
 
 1. Clone o repositório:
-git clone https://github.com/MrEncryptorX/svelte-calculator.git
+git clone https://github.com/MrEncryptorX/calculadora-svelte.git
 
 2. Navegue até o diretório do projeto:
 cd svelte-calculator
